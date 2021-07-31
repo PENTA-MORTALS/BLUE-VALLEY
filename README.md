@@ -50,6 +50,18 @@ So we the team behind Blue Valley are budding software developers with so much a
 
 ![Roadmap](https://user-images.githubusercontent.com/72182858/127742296-31961ad9-8823-407d-9759-81a65ce2995b.jpeg)
 
+#### Below are the files of code repositiries for the rest of the pages we have created,
+
+- [Blue Valley](https://github.com/PENTA-MORTALS/BLUE-VALLEY)
+- [Home](https://github.com/PENTA-MORTALS/Home)
+- [Sign In-Up](https://github.com/PENTA-MORTALS/Sign-In-Up)
+- [Dashboard](https://github.com/PENTA-MORTALS/Dashboard)
+- [Guide](https://github.com/PENTA-MORTALS/Guide)
+- [Cart](https://github.com/PENTA-MORTALS/Cart)
+- [Payment](https://github.com/PENTA-MORTALS/Payment)
+- [Order Confirmed](https://github.com/PENTA-MORTALS/Order-Confirmed)
+- [About Us](https://github.com/PENTA-MORTALS/About-Us)
+
 
 
 
