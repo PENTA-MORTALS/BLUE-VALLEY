@@ -9,6 +9,8 @@ Technological advancement to uplift standards of clean water and sanitation
 
 ## Demo video 
 
+[![Watch the video](https://youtu.be/Ex-PlGfAF3M)
+
 ## The architecture
 
 ![Video transcription/translation app](https://user-images.githubusercontent.com/72182858/127742562-7d94394a-d4a9-494d-917d-2af4c64b2636.jpeg)
