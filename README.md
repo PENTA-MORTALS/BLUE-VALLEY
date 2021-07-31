@@ -13,6 +13,11 @@ Technological advancement to uplift standards of clean water and sanitation
 
 ![Video transcription/translation app](https://user-images.githubusercontent.com/72182858/127742562-7d94394a-d4a9-494d-917d-2af4c64b2636.jpeg)
 
+1. The user enters in the site and clicks the Sign up/ Log in button on the right end of navbar.
+2. After entering the credentials, the user is taken to his/her personal dashboard.
+3. One can click the order button provided to place order for water for the required quantity.
+4. After payment and confirmation the water shall be delivered soon.
+
 ## Long description 
 
 ### About
