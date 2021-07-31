@@ -48,8 +48,6 @@ So we the team behind Blue Valley are budding software developers with so much a
 
 ![Roadmap](https://user-images.githubusercontent.com/72182858/127742296-31961ad9-8823-407d-9759-81a65ce2995b.jpeg)
 
-## The architecture
 
-![Video transcription/translation app](https://user-images.githubusercontent.com/72182858/127742562-7d94394a-d4a9-494d-917d-2af4c64b2636.jpeg)
 
 
