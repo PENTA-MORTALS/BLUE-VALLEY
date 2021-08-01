@@ -2,6 +2,16 @@
 
 ![Blue Valley](https://user-images.githubusercontent.com/72182858/127742011-4b5a45b7-1b51-435f-bd1a-5cfe4730a1f0.jpg)
 
+## Contents
+
+- [Submission or project name](#clean-water-and-sanitation)
+  - [Contents](#contents)
+  - [Short description](#short-description)
+  - [Demo video](#demo-video)
+  - [The architecture](#the-architecture)
+  - [Long description](#long-description)
+  - [Project roadmap](#project-roadmap)
+
 
 ## Short Description 
 
