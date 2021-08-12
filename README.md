@@ -73,7 +73,11 @@ So we the team behind Blue Valley are budding software developers with so much a
 - [About Us](https://github.com/PENTA-MORTALS/About-Us)
 
 
+Contributors
 
+<a href="https://github.com/PENTA-MORTALS/BLUE-VALLEY/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PENTA-MORTALS/BLUE-VALLEY" />
+</a>
 
 
 
