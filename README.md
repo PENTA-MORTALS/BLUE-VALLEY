@@ -72,12 +72,9 @@ So we the team behind Blue Valley are budding software developers with so much a
 - [Order Confirmed](https://github.com/PENTA-MORTALS/Order-Confirmed)
 - [About Us](https://github.com/PENTA-MORTALS/About-Us)
 
+#### Tech Stacks used to build:
+ > HTML, CSS, JavaScript, Bootstrap, Python, Django, MangoDB
 
-Contributors
-
-<a href="https://github.com/PENTA-MORTALS/BLUE-VALLEY/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=PENTA-MORTALS/BLUE-VALLEY" />
-</a>
 
 
 
