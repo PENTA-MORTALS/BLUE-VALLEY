@@ -12,7 +12,6 @@
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
 
-
 ## Short Description 
 
 Technological advancement to uplift standards of clean water and sanitation
